@@ -11,5 +11,12 @@
 ## 🛠️ Technologies & Tools
 Java | Spring Boot | AWS | Docker | Kubernetes | React | Git
 
-## 📈 GitHub Stats
-![Srinivas' GitHub stats](https://github-readme-stats.vercel.app/api?username=msrbaipalli&show_icons=true)
+## 📊 GitHub Stats
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msrbaipalli&theme=github)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msrbaipalli&theme=github)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msrbaipalli&theme=github)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msrbaipalli&theme=github)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msrbaipalli&theme=github&utcOffset=8)
+
