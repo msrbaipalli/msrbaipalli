@@ -1,6 +1,6 @@
 # Hi, I'm Srinivas 👋
 
-### Software Engineering Leader | Architecting AI-Powered HealthTech Solutions | Innovator & Patent-Pending Researcher
+#### I'm a Lead Software Engineer & Solution Architect. I turn complex problems into simple, beautiful solutions through code, design, AI, and everything in between.
 
 ## 🛠️ Technologies & Tools
 
