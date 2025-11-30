@@ -12,4 +12,4 @@
 Java | Spring Boot | AWS | Docker | Kubernetes | React | Git
 
 ## 📈 GitHub Stats
-![Srinivas' GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Srinivas' GitHub stats](https://github-readme-stats.vercel.app/api?username=msrbaipalli&show_icons=true)
