@@ -1,6 +1,6 @@
 # Hi, I'm Srinivas 👋
 
-### 🚀 Software Engineering Leader | Architecting AI-Powered HealthTech Solutions | Innovator & Patent-Pending Researcher
+### Software Engineering Leader | Architecting AI-Powered HealthTech Solutions | Innovator & Patent-Pending Researcher
 
 ## 🛠️ Technologies & Tools
 
